@@ -1,10 +1,10 @@
 module.exports.config = {
-	name: "language",
+	name: "ZISAN BOT",
 	version: "1.0.0",
 	hasPermssion: 2,
 	credits: "MrTomXxX",
 	description: "Change BOT language",
-	commandCategory: "System",
+	commandCategory: "/",
 	usages: "[vi] [en]",
 	cooldowns: 5
 };
