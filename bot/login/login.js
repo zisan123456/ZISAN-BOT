@@ -1,5 +1,5 @@
 // set bash title
-process.stdout.write("\x1b]2;Hinata Bot V3 - Made by MahMUD\x1b\x5c");
+process.stdout.write("\x1b]2;ZISAN BOT V3 - Made by ZISAN\x1b\x5c");
 const defaultRequire = require;
 
 function decode(text) {
